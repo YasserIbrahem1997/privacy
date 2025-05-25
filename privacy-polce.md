@@ -37,5 +37,5 @@ This Privacy Policy is effective as of [[Date]] and will remain in effect except
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[foolnour.com@gmail.com
+For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[yasserelabasy1997@gmail.com
 ]].
