@@ -1,6 +1,6 @@
 # Privacy Policy
 
-[["We" or "I", Marsa Matrooh]] takes your privacy seriously. To better protect your privacy, [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+[["We" or "I", DishFlow RM]] takes your privacy seriously. To better protect your privacy, [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 ## Collection of Routine Information
@@ -37,5 +37,5 @@ This Privacy Policy is effective as of [[Date]] and will remain in effect except
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send [["me"]] an email to [[info@bl-solution.com
+For any questions or concerns regarding the privacy policy, please send [["me"]] an email to [[yasserelabasy1997@gmail.com
 ]].
