@@ -1,41 +1,132 @@
-# Privacy Policy
+# Privacy Policy — Vicanza
 
-[["We" or "I", DishFlow RM]] takes your privacy seriously. To better protect your privacy, [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+**Effective date:** September 15, 2026
 
+CodeSolution (“we”, “us”, or “our”) operates the **Vicanza** mobile application (the “App”). This privacy policy explains how we collect, use, and protect information when you use Vicanza.
 
-## Collection of Routine Information
+Vicanza is a partner financial portal that lets authorized financial partners sign in and view dashboards, profit & loss, branch performance, distributions, capital information, and PDF reports related to their partnership (data provided via our connected business systems, including Odoo).
 
-This [["website" or "app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
-
-
-## Cookies
-
-Where necessary, this [["app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+By using the App, you agree to the practices described in this policy.
 
 
-## Advertisement and Other Third Parties
+## Information We Collect
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["website" or "app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+### Account and login information
+When you sign in, we collect information needed to authenticate you, such as:
+
+- Email address
+- Password (processed securely for authentication; we do not store your password in plain text on the device beyond what the secure login flow requires)
+- Account identifiers linked to your partner profile
+
+### Financial and partner information
+After you sign in, the App displays partner-related financial information associated with your account, which may include:
+
+- Revenue, costs, and partner share summaries
+- Profit & Loss for closed accounting periods
+- Branch-level performance
+- Distributions and capital position
+- PDF financial reports and related metadata
+
+This information is provided for your authorized partner access and is not sold to advertisers.
+
+### Routine technical information
+The App and our services may automatically process limited technical data for operation and security, such as:
+
+- Device type and operating system
+- App version
+- IP address
+- Approximate timestamps of requests
+- Crash or diagnostic logs (if enabled)
+
+This data is used for administration, troubleshooting, and improving reliability. It is not used to sell ads.
 
 
-## Links to Third Party Websites
+## How We Use Your Information
 
-[["We" or "I"]] have included links on this [["website" or "app"]] for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
+We use the information above to:
+
+- Authenticate you and provide access to the App
+- Display your partner dashboards and reports
+- Send push notifications related to reports, periods, or account updates (if you allow notifications)
+- Maintain security, prevent abuse, and fix technical issues
+- Comply with legal obligations where applicable
+
+We do **not** use your data for third-party advertising networks.
+
+
+## Cookies and Similar Technologies
+
+Vicanza is a mobile app. It does not use website advertising cookies. The App may store limited local data on your device (for example session tokens or preferences) so you can stay signed in and use the App as intended.
+
+
+## Third-Party Services
+
+We may use trusted service providers that process data on our behalf, for example:
+
+- Cloud hosting / backend APIs
+- Business systems that store partner financial data (including Odoo)
+- Push notification providers (for example Firebase Cloud Messaging)
+- App distribution through Google Play
+
+These providers process data only as needed to operate the App and are subject to their own privacy and security terms. We do not control third-party websites you may open from links outside the App.
+
+
+## Data Sharing
+
+We do not sell your personal information.
+
+We may share information only:
+
+- With service providers who help us run the App (under appropriate safeguards)
+- With your organization / Vicanza Group systems that already hold your partner records
+- When required by law, regulation, or valid legal process
+- To protect the rights, safety, and security of users, the App, or others
+
+
+## Data Retention
+
+We retain account and partner-related information for as long as your account remains active and as needed to provide the App and meet legal, accounting, or security requirements. Technical logs are kept only as long as reasonably necessary for operations and troubleshooting.
 
 
 ## Security
 
-The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
+We take reasonable technical and organizational measures to protect your information (including encrypted transmission over HTTPS where applicable). However, no method of transmission or storage is 100% secure, and we cannot guarantee absolute security.
 
 
-## Changes To This Privacy Policy
+## Your Choices and Rights
 
-This Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+Depending on applicable law, you may request access to, correction of, or deletion of certain personal information we hold about you.
 
-[["We" or "I"]] reserve the right to update or change [["our" or "my"]] Privacy Policy at any time and you should check this Privacy Policy periodically. If [["we" or "I"]] make any material changes to this Privacy Policy, [["we" or "I"]] will notify you either through the email address you have provided [["us" or "me"]], or by placing a prominent notice on [["our" or "my"]] [["website" or "app"]].
+You can also:
+
+- Sign out of the App
+- Disable push notifications in your device settings
+- Contact us to request account-related changes
+
+Some financial records may need to be retained by the business for legal or accounting reasons even after App access is removed.
 
 
-## Contact Information
+## Children’s Privacy
 
-For any questions or concerns regarding the privacy policy, please send [["me"]] an email to [[yasserelabasy1997@gmail.com
-]].
+Vicanza is intended for authorized adult financial partners. It is not directed to children under 13 (or the equivalent minimum age in your country). We do not knowingly collect personal information from children.
+
+
+## International Transfers
+
+Your information may be processed on servers located in different countries. Where we transfer data, we take steps appropriate to the context of the App and applicable law.
+
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. The updated version will be posted on this page with a revised effective date. If changes are material, we may also notify you through the App or by email when appropriate.
+
+
+## Contact Us
+
+For questions or concerns about this Privacy Policy, or to make a privacy-related request, contact:
+
+**Email:** yasserelabasy1997@gmail.com
+
+**App:** Vicanza  
+**Package name:** com.codesolution.vacansa  
+**Operator:** CodeSolution
