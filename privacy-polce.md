@@ -128,5 +128,5 @@ For questions or concerns about this Privacy Policy, or to make a privacy-relate
 **Email:** yasserelabasy1997@gmail.com
 
 **App:** RO-W  
-**Package name:** com.codesolution.vacansa  
+**Package name:** com.codesolution.swirkies_driver 
 **Operator:** CodeSolution
