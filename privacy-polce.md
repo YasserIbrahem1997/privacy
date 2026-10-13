@@ -1,10 +1,10 @@
-# Privacy Policy — RO-W
+# Privacy Policy — Hudoori
 
 **Effective date:** September 15, 2026
 
-CodeSolution (“we”, “us”, or “our”) operates the **RO-W** mobile application (the “App”). This privacy policy explains how we collect, use, and protect information when you use RO-W.
+CodeSolution (“we”, “us”, or “our”) operates the **Hudoori** mobile application (the “App”). This privacy policy explains how we collect, use, and protect information when you use Hudoori.
 
-RO-W is a partner financial portal that lets authorized financial partners sign in and view dashboards, profit & loss, branch performance, distributions, capital information, and PDF reports related to their partnership (data provided via our connected business systems, including Odoo).
+Hudoori is a partner financial portal that lets authorized financial partners sign in and view dashboards, profit & loss, branch performance, distributions, capital information, and PDF reports related to their partnership (data provided via our connected business systems, including Odoo).
 
 By using the App, you agree to the practices described in this policy.
 
@@ -56,7 +56,7 @@ We do **not** use your data for third-party advertising networks.
 
 ## Cookies and Similar Technologies
 
-RO-W is a mobile app. It does not use website advertising cookies. The App may store limited local data on your device (for example session tokens or preferences) so you can stay signed in and use the App as intended.
+Hudoori is a mobile app. It does not use website advertising cookies. The App may store limited local data on your device (for example session tokens or preferences) so you can stay signed in and use the App as intended.
 
 
 ## Third-Party Services
@@ -78,7 +78,7 @@ We do not sell your personal information.
 We may share information only:
 
 - With service providers who help us run the App (under appropriate safeguards)
-- With your organization / RO-W Group systems that already hold your partner records
+- With your organization / Hudoori Group systems that already hold your partner records
 - When required by law, regulation, or valid legal process
 - To protect the rights, safety, and security of users, the App, or others
 
@@ -108,7 +108,7 @@ Some financial records may need to be retained by the business for legal or acco
 
 ## Children’s Privacy
 
-RO-W is intended for authorized adult financial partners. It is not directed to children under 13 (or the equivalent minimum age in your country). We do not knowingly collect personal information from children.
+Hudoori is intended for authorized adult financial partners. It is not directed to children under 13 (or the equivalent minimum age in your country). We do not knowingly collect personal information from children.
 
 
 ## International Transfers
@@ -127,6 +127,6 @@ For questions or concerns about this Privacy Policy, or to make a privacy-relate
 
 **Email:** yasserelabasy1997@gmail.com
 
-**App:** RO-W  
-**Package name:** com.codesolution.swirkies_driver 
+**App:** Hudoori  
+**Package name:** com.codesolutioneg.multibiotimeApp
 **Operator:** CodeSolution
